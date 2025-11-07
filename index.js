@@ -40,8 +40,11 @@ function KareninAlani(kenaruzunlugu) {
   return kenaruzunlugu * kenaruzunlugu;
 }
 
+<<<<<<< HEAD
 KareninAlani(10);
 
+=======
+>>>>>>> c0f1e778f2e06d01201e5d276720b2354fd857e0
 /* (Oto test yok) Yukarıdaki KareninAlani fonksiyonunu kenar uzunluğu = 10 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
 
 /* GÖREV 1:  
@@ -52,8 +55,13 @@ KareninAlani(10);
 	4. Hesaplanan çemberin çevresi döndürülecektir.
 */
 
+<<<<<<< HEAD
 function CemberinCevresi(yariCap) {
   return 2 * pi * yariCap;
+=======
+function CemberinCevresi(/* kodlar buraya */) {
+  /* kodlar buraya */
+>>>>>>> c0f1e778f2e06d01201e5d276720b2354fd857e0
 }
 
 /* (Oto test yok) Yukarıdaki CemberinCevresi fonksiyonunu yarıçap = 5 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
@@ -66,8 +74,13 @@ function CemberinCevresi(yariCap) {
 	4. Hesaplanan çemberin alanı döndürülecektir.
 */
 
+<<<<<<< HEAD
 function CemberinAlani(yariCap) {
   return pi * yariCap * yariCap;
+=======
+function CemberinAlani(/* kodlar buraya */) {
+  /* kodlar buraya */
+>>>>>>> c0f1e778f2e06d01201e5d276720b2354fd857e0
 }
 
 /* (Oto test yok) Yukarıdaki CemberinAlani fonksiyonunu yarıçap = 15 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
@@ -91,6 +104,7 @@ function CemberinAlani(yariCap) {
 
 /*  (oto test yok) sayilar dizisi içinde kaç adet sayı olduğunu konsola yazdırın */
 
+<<<<<<< HEAD
 let ucetambolunenler = [],
   enkucuk = sayilar[0],
   enbuyuk = sayilar[0],
@@ -152,6 +166,39 @@ for (let key in tekrarSayisi) {
 }
 
 console.log(tekraredensayilar);
+=======
+let ucetambolunenler,
+  enkucuk,
+  enbuyuk,
+  ucebolunenlerintoplami,
+  besyuzdenkucuksayilar,
+  siralisayilar,
+  tekraredensayilar;
+
+// 3a çözümü
+
+/* kodlar buraya */
+
+// 3b çözümü:
+
+/* kodlar buraya */
+
+// 3c çözümü:
+
+/* kodlar buraya */
+
+// 3d çözümü
+
+/* kodlar buraya */
+
+// 3e çözümü
+
+/* kodlar buraya */
+
+// 3f çözümü
+
+/* kodlar buraya */
+>>>>>>> c0f1e778f2e06d01201e5d276720b2354fd857e0
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 

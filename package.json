@@ -11,7 +11,11 @@
     "url": "git+https://github.com/Workintech/FSWeb-S2G4-JavaScript-tekrar.git"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@babel/core": "^7.28.5",
+=======
+    "@babel/core": "7.17.8",
+>>>>>>> c0f1e778f2e06d01201e5d276720b2354fd857e0
     "@babel/plugin-transform-runtime": "7.17.0",
     "@babel/preset-env": "7.16.11",
     "@types/jest": "27.4.1",
